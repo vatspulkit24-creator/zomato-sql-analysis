@@ -28,7 +28,13 @@ SQL and Power BI analysis of the Zomato restaurant dataset.
 | `zomato_sql_business_analysis.docx` | Business analysis report |
 
 ## Key Insights
-- Add 3-4 main findings from your analysis here
+## Key Insights
+- The dataset has 9,551 restaurants. New Delhi has the most (5,473), far ahead of Gurgaon (1,118) and Noida (1,080).
+- Only about 26% of restaurants offer online delivery and just 12% offer table booking, so most restaurants are still dine-in only.
+- Price range 1 (budget) has the most restaurants (4,444), but higher price ranges get better ratings: average rating rises from 3.24 (range 1) to 3.89 (range 4).
+- North Indian is the most common cuisine (936 restaurants), followed by North Indian + Chinese (511).
+- Most restaurants are rated "Average" (3,737), and only 301 are rated "Excellent". About 2,148 restaurants are unrated.
+- Toit (Bangalore) is the most voted restaurant with 10,934 votes, followed by Truffles (9,667).
 
 ## Author
 Pulkit Vats
